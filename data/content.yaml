@@ -1,6 +1,6 @@
 BasicInfo:
   FirstName: test1
-  LastName: Test
+  LastName: Test2
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
