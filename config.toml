@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 publishDir = "public"
-baseURL = "https://damiendeveloppeur.github.io/cv-lucielhaurado.github.io/"
+baseURL = ""
 title = "Example - CV"
 #googleAnalytics = ""
 
