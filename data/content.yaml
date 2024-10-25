@@ -85,11 +85,9 @@ References:
       Info: adriana.inchausti@oxfam.org
     - Icon: fas fa-map-marker-alt
       Info: Barcelona, Spain
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
+  - Name: Anne-Marie Abautret
+    Relation: Manager at L'encrier Vert
     Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
     - Icon: fas fa-envelope
       Info: anne.abautret@lencrier.com
     - Icon: fas fa-map-marker-alt
