@@ -78,24 +78,24 @@ Education:
     Date: 2010 - 2013
     
 References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
+  - Name: Adriana Inchausti
+    Relation: Translation Manager at Oxfam Intermón
     Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 790
+      Info: 
     - Icon: fas fa-envelope
-      Info: contact@person-one.com
+      Info: adriana.inchausti@oxfam.org
     - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
+      Info: Barcelona, Spain
   - Name: Person Two
     Relation: Boss at Super Cool Company
     Contacts:
     - Icon: fas fa-phone
       Info: +44 123 456 791
     - Icon: fas fa-envelope
-      Info: contact@person-two.com
+      Info: anne.abautret@lencrier.com
     - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
+      Info: Lima, Peru
 
 
 Skills:
