@@ -26,7 +26,7 @@ Experience:
           - Academic Translations
           - Transcripts
           - Layout        
-        Badges: ['ES to FR', 'EN to FR']
+        Badges: ['ES to FR', 'EN to FR', 'Trados']
       - Title: French Language Advisor
         Date: July 2019 - Present
         Details:
@@ -34,29 +34,27 @@ Experience:
           - Preparation to languages diplomas (DELF, DALF, TEF, TECF)
           - Applications advisory
         Badges: ['DELF', 'DALF', 'TEF', 'TCF', 'Proofreading']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+  - Employer: Oxfam Intermón
+    Place: Barcelona, Spain
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Trainee Translator
+        Date: Feb 2024 - May 2024
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - Administrative translations (Contracts, Terms ans Conditions, human resources documents, etc.)
+          - Subtitling
+          - Layout          
+        Badges: ['ES to FR', 'EN to FR', 'Trados', 'Aegisub']
+  - Employer: CLAK Traducción
+    Place: Valladolid, Spain
     Class: "experience__extra_padding"
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Trainee Translator
+        Date: Feb 2023 - June 2023
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Marketing Translations
+          - Technical Translations
+          - Layout          
+        Badges: ['ES to FR', 'Trados', 'Layout']
                       
 
 Education:
