@@ -15,46 +15,59 @@ BasicInfo:
 Profile: Professional Translator fluent in Spanish and English, with expertise in translating to and from French. I earned a Master's degree in Translation and Intercultural Mediation from the University of Salamanca in Spain ans a Master's degree in Institutional Translation from the University of Alicante. I am perfectly bilingual and well-versed in addressing intercultural challenges. This enhances my ability to provide culturally sensitive and accurate translations, bridging linguistic gaps seamlessly.
 
 Work Experience:
-  - Employer: Freelance Translator        
+- Employer: Freelance
+  - Title: Translator        
       - Date: Oct 2023 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+          - Translations for NGOs
+          - Legal Translations (Contracts, Terms and Conditions, etc.)
+          - Academic Translations
+          - Transcripts
+          - Layout       
+      - Title: French Language Advisor
+        Date: July 2019 - Present
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Language Training
+          - Applications advisory
+          - Preparation to languages diplomas (DELF, DALF, TEF, TECF)
+      - Employer: Oxfam Intermón
+    Place: Spain 
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Trainee Translator
+        Date: Feb 2024 - May 2024
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Class: "experience__extra_padding"
+          - Administrative translations (Contracts, Terms ans Conditions, human resources documents, etc.)
+          - Subtitling
+          - Layout      
+  - Employer: CLAK Traducción
+    Place: Spain    
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Trainee Translator
+        Date: Feb 2023 - June 2023
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Marketing Translations
+          - Technical Translations
+          - Layout 
+  - Employer: Language Advising
+    Place: Peru    
+    Positions:
+      - Title: Language advisor
+        Date: 2018 - 2020
+        Details:
+          - in-house professional language training
+  - Employer: L'encrier Vert 
+    Place: Peru   
+    Positions:
+      - Title: Language advisor
+        Date: 2016 - 2019
+        Details:
+          - Language Training
+  - Employer: Biomnis
+    Place: France    
+    Positions:
+      - Title: Administrative Assistant
+        Date: 2014 - 2016
+                      
 
 Education:
   - Course: BSc & MSc in Biomedical Engineering and Biophysics
