@@ -1,6 +1,6 @@
 BasicInfo:
-  FirstName: test1 - modif
-  LastName: Test2
+  FirstName: Lucie
+  LastName: Lhaurado
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
