@@ -1,22 +1,22 @@
 BasicInfo:
-  FirstName: test1
-  LastName: Almeida
+  FirstName: Lucie
+  LastName: Lhaurado
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +33 7 65 78 73 66
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: lhaurado.lucie@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="https://www.lucielhaurado.com/" target="_blank">lucielhaurado.com</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Spain
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Professional Translator fluent in Spanish and English, with expertise in translating to and from French. I earned a Master's degree in Translation and Intercultural Mediation from the University of Salamanca in Spain ans a Master's degree in Institutional Translation from the University of Alicante. I am perfectly bilingual and well-versed in addressing intercultural challenges. This enhances my ability to provide culturally sensitive and accurate translations, bridging linguistic gaps seamlessly.
 
 Experience:
   - Employer: Super Cool test
-    Place: Oxford, UK
+    Place:
     Positions:
       - Title: Software Engineer
         Date: Jan 2020 - Present
@@ -58,13 +58,25 @@ Experience:
           - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           - Nisl tincidunt eget nullam non nisi est
         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+                      
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
-
+  - Course: Master's Degree in Institutional Translation
+    Place: University of Alicante (Spain)
+    Date: Sep 2023 - Sep 2024
+    Details: Legal Translations, Translations for International Organizations
+  - Course: Summer School of Legal Linguistics
+    Place: University of Cologne (Germany)
+    Date: June 2023 - Nov 2023
+    Details: Legal and Linguistics aspects of the EU's legislative process
+  - Course: Master's Degree in Translation
+    Place: University of Salamanca (Spain)
+    Date: Sep 2022 - Sep 2023
+    Details: Legal Translations, Scientific and Tecnical Translations
+  - Course: Bachelor's Degree in Psychology
+    Place: Lyon II University (France)
+    Date: 2010 - 2013
+    
 References:
   - Name: Person One
     Relation: Co-worker at Super Cool Company
