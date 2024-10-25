@@ -4,22 +4,19 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +33 7 65 78 73 66
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: lhaurado.lucie@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://ines-almeida.com" target="_blank">ines-almeida.com</a>
+      Info: <a class="contact__link" href="https://www.lucielhaurado.com/" target="_blank">lucielhaurado.com</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Spain
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Professional Translator fluent in Spanish and English, with expertise in translating to and from French. I earned a Master's degree in Translation and Intercultural Mediation from the University of Salamanca in Spain ans a Master's degree in Institutional Translation from the University of Alicante. I am perfectly bilingual and well-versed in addressing intercultural challenges. This enhances my ability to provide culturally sensitive and accurate translations, bridging linguistic gaps seamlessly.
 
-Experience:
-  - Employer: Super Cool test
-    Place: Oxford, UK
-    Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+Work Experience:
+  - Employer: Freelance Translator        
+      - Date: Oct 2023 - Present
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing
