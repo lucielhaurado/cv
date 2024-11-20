@@ -4,15 +4,9 @@
         {{ range .BasicInfo.Contacts }}
         <li class="contact__item">
             <i class="{{ .Icon }}"></i><span>{{ .Info | safeHTML }}</span>
+            <i class="fa-brands fa-linkedin-in"></i>
         </li>
-        {{ end }}
-      {{ if .BasicInfo.LinkedIn }}
-        <li class="contact__item linkedin">
-            <i class="fab fa-linkedin"></i> <!-- Icône LinkedIn -->
-            <a href="{{ .BasicInfo.LinkedIn }}" target="_blank" rel="noopener noreferrer">
-                Mon profil LinkedIn
-            </a>
-        </li>
+        {{ end }}      
         {{ end }}  
     </ul>
 </div>
