@@ -4,10 +4,8 @@
         {{ range .BasicInfo.Contacts }}
         <li class="contact__item">
             <i class="{{ .Icon }}"></i><span>{{ .Info | safeHTML }}</span>
-            <i class="fa-brands fa-linkedin-in"></i>
         </li>
-        {{ end }}      
-        {{ end }}  
+        {{ end }}
     </ul>
 </div>
 {{ end }}
